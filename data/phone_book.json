@@ -7,7 +7,7 @@
   },
   {
     "name":   "Xtreme Ears",
-    "phones": [ "Stage"
+    "phones": [ {"name":"Stage","file":"xtremeears_stage"}
               ]
   },
   {
