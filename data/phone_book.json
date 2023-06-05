@@ -1,0 +1,8 @@
+[ 
+  {
+    "name":   "Xtreme-Ears",
+    "phones": [ {"name":"Stage","file":"STAGE"}
+               , {"name":"One Max","file":"ONEMAX"}
+              ]
+  }
+]
