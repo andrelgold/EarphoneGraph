@@ -5,6 +5,7 @@
                , {"name":"One Max","file":"ONEMAX"}
                , {"name":"One Plus","file":"ONEPLUS"}
                , {"name":"Hybrid","file":"HYBRID"}
+               , {"name":"One","file":"ONE"}
               ]
   }
 ]
