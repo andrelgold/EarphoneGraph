@@ -149,15 +149,15 @@ const
     widgets = `
         <div class="accessories-widgets">
             <div class="widget">
-                <img width="200" src="cringraph-logo.svg"/>
+                <img width="200" src="xtreme_logo.png"/>
             </div>
 
             <div class="widget">
-                <img width="200" src="cringraph-logo.svg"/>
+                <img width="200" src="xtreme_logo.png"/>
             </div>
 
             <div class="widget">
-                <img width="200" src="cringraph-logo.svg"/>
+                <img width="200" src="xtreme_logo.png"/>
             </div>
         </div>
     `,
