@@ -3,6 +3,8 @@
     "name":   "Xtreme-Ears",
     "phones": [ {"name":"Stage","file":"STAGE"}
                , {"name":"One Max","file":"ONEMAX"}
+               , {"name":"One Plus","file":"ONEPLUS"}
+               , {"name":"Hybrid","file":"HYBRID"}
               ]
   }
 ]
