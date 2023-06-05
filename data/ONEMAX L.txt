@@ -1,5 +1,5 @@
 
-* Freq(Hz)	SPL(dB)	Phase(degrees)
+Frequency	dB	Unweighted
 20.000000	88.925	-160.6386
 20.299999	88.940	-160.9926
 20.600000	88.953	-161.3370
