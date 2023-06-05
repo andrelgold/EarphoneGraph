@@ -1,16 +1,4 @@
-* Measurement data measured by REW V5.20.13
-* Source: ASIO MOTU Audio, Mic/Line 1
-* Format: 256k Log Swept Sine, 1 sweep at -8.0 dBFS with no timing reference
-* Dated: Jun 4, 2023 5:49:46 PM
-* REW Settings:
-*  C-weighting compensation: Off
-*  Target level: 75.0 dB
-* Note: 
-* Measurement: Jun 4
-* Smoothing: 1/12 octave
-* Frequency Step: 1/48 octave
-* Start Frequency: 20.000 Hz
-*
+
 * Freq(Hz)	SPL(dB)	Phase(degrees)
 20.000000	88.925	-160.6386
 20.299999	88.940	-160.9926
