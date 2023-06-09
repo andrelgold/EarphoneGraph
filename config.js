@@ -2,7 +2,7 @@
 const init_phones = ["STAGE"],                      // Optional. Which graphs to display on initial load. Note: Share URLs will override this set
       DIR = "data/",                                // Directory where graph files are stored
       data_format = "AudioTools",                   // Accepts "AudioTools," "REW," or "other"
-      default_channels = ["L","R"],                 // Which channels to display. Avoid javascript errors if loading just one channel per phone
+      default_channels = ["L"],                 // Which channels to display. Avoid javascript errors if loading just one channel per phone
       default_normalization = "Hz",                 // Sets default graph normalization mode. Accepts "dB" or "Hz"
       default_norm_db = 60,                         // Sets default dB normalization point
       default_norm_hz = 1000,                        // Sets default Hz normalization point (500Hz is recommended by IEC)
@@ -11,7 +11,7 @@ const init_phones = ["STAGE"],                      // Optional. Which graphs to
       alt_sticky_graph = true,                      // If active graphs overflows the viewport, does the graph scroll with the page or stick to the viewport?
       alt_animated = false,                         // Determines if new graphs are drawn with a 1-second animation, or appear instantly
       alt_header = false,                           // Display a configurable header at the top of the alt layout
-      alt_tutorial = false,                         // Display a configurable frequency response guide below the graph
+      alt_tutorial = true,                         // Display a configurable frequency response guide below the graph
       site_url = 'graph.html',                      // URL of your graph "homepage"
       share_url = true,                             // If true, enables shareable URLs
       watermark_text = "Xtreme Ears",                 // Optional. Watermark appears behind graphs
