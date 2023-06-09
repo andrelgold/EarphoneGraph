@@ -33,8 +33,8 @@ const init_phones = ["STAGE"],                      // Optional. Which graphs to
 
 // Specify which targets to display
 const targets = [
-    { type:"Reviewer",   files:["Antdroid","Bad Guy","Banbeucmas","Crinacle","Precogvision","Super Review"] },
-    { type:"Preference", files:["Harman","Rtings","Sonarworks"] }
+    { type:"Reviewer",   files:["Antdroid","Bad Guy","Banbeucmas","Crinacle","Precogvision","Super Review"] }
+    
 ];
 
 
